@@ -12,8 +12,8 @@
 
     },
     "autoload": {
-        "psr-0" : {
-            "proberts\\skip32" : ""
+        "psr-0": {
+            "Skip32": "src/"
         }
     }
 }
