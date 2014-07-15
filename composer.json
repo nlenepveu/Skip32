@@ -10,5 +10,10 @@
     ],
     "require": {
 
+    },
+    "autoload": {
+        "psr-0" : {
+            "proberts\\skip32" : ""
+        }
     }
 }
