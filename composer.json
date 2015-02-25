@@ -1,0 +1,19 @@
+{
+    "name": "proberts/skip32",
+    "description": "Skip32 php implementation - 32-bit block cipher based on Skipjack",
+    "license": "UNLICENSE",
+    "authors": [
+        {
+            "name": "Nicolas Lenepveu",
+            "email": "n.lenepveu@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "Skip32": "src/"
+        }
+    }
+}
